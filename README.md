@@ -1,5 +1,5 @@
 # Assigment 1 Aplikasi Dekstop My Bags
-My Bags adalah tempat penjulan Tas Wanita maupun Pria, ada banyak model yang disediakan
+My Bags adalah tempat penjualan Tas Wanita maupun Pria, ada banyak model yang disediakan
 cara memesannya adalah
 1. Pengguna harus mendaftarkan data dirinya terlebih dahulu
 2. setelah selesai mendaftar, pengguna login
