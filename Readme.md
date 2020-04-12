@@ -10,7 +10,7 @@ Library: Tkinter
 ## Cara Menjalankan Aplikasi
 
 1. Pastikan pc terhubung dengan cassandra lalu jalankan cassandranya
-2. Jalankan MY_bags.py
+2. Jalankan MY_bags.py harus di dalam folder Second Phase yang ada gambar didalamnya, agar gambarnya muncul
 3. Login admin dengan username(Admin My Bags) dan password(1234567)
 
 ## Fitur
