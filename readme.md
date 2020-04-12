@@ -15,11 +15,11 @@ Library: Tkinter
 
 ## Fitur
 
- Menu Home Page
- Registrasi Pengguna
- Login admin dan pengguna
- Gambar produk My Bags
- Admin dapat melihat, menambah dan menghapus list produk
+ -Menu Home Page
+ -Registrasi Pengguna
+ -Login admin dan pengguna
+ -Gambar produk My Bags
+ -Admin dapat melihat, menambah dan menghapus list produk
 
 
 ## Video
